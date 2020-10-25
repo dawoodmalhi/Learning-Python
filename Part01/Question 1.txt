@@ -1,0 +1,9 @@
+The given code will output error because in python we cannot do 'print i' we have to put parenthesis around i.
+Also in python we cannot do i++. Instead we can do i += 1.
+If these errors are reesolved then it would print following
+0
+2
+1
+3
+2
+4

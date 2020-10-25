@@ -1,0 +1,3 @@
+these lines of code wil print error becouase Print statment has a capitalized p.
+if we resolve this error then following will be printed
+2

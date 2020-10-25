@@ -1,0 +1,7 @@
+the output of this question depends on the input.
+this will print one if we enter 1 in input
+this will print two if we enter 2 in input
+this will print three if we enter 3 in input
+for all other digits entered it will print !
+for example if we enter 32415 it will output following
+threetwo!one!
